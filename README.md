@@ -24,18 +24,18 @@ if __name__ == "__main__":
     run_karel_program()
 ```
 ## Project Description
-| Project | Description |
-| --- | --- |
-| `StepUp.py` |<img width="150" alt="Screen Shot 2023-07-11 at 1 11 08 PM" src="https://github.com/Jiayikung/Karel-Robot-Project/assets/112765699/82234c4f-5708-4b05-ae6d-b61a98efe788">|
-| `PotholeFilling.py` | Show file differences that haven't been staged |
-| `BeeperRow.py` | Show file differences that haven't been staged |
-| `BeeperRowAdv.py` | Show file differences that haven't been staged |
-| `Steeplechase.py` | Show file differences that haven't been staged |
-| `DoubleBeepers.py` | Show file differences that haven't been staged |
-| `CollectNewspaperKarel.py` | Show file differences that haven't been staged |
-| `StoneMasonKarel.py` | Show file differences that haven't been staged |
-| `CheckerboardKarel.py` | Show file differences that haven't been staged |
-| `MidpointKarel.py` | Show file differences that haven't been staged |
+| Project | Pre-condition | Post-condition |
+| --- | --- |--- |
+| `StepUp.py` |<img width="200" alt="Screen Shot 2023-07-11 at 1 11 08 PM" src="https://github.com/Jiayikung/Karel-Robot-Project/assets/112765699/82234c4f-5708-4b05-ae6d-b61a98efe788">|<img width="200" alt="Screen Shot 2023-07-11 at 1 11 50 PM" src="https://github.com/Jiayikung/Karel-Robot-Project/assets/112765699/a1a0871f-51c9-4ad1-8660-7f98922fbde1">|
+| `PotholeFilling.py` | | |
+| `BeeperRow.py` | | |
+| `BeeperRowAdv.py` |  | |
+| `Steeplechase.py` |  | |
+| `DoubleBeepers.py` |  | |
+| `CollectNewspaperKarel.py` |  | |
+| `StoneMasonKarel.py` |  | |
+| `CheckerboardKarel.py` |  | |
+| `MidpointKarel.py` | | |
 
 
 
