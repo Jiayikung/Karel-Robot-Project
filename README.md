@@ -26,7 +26,7 @@ if __name__ == "__main__":
 ## Project Description
 | Project | Description |
 | --- | --- |
-| `StepUp.py` |<img width="300" alt="Screen Shot 2023-07-11 at 1 11 08 PM" src="https://github.com/Jiayikung/Karel-Robot-Project/assets/112765699/82234c4f-5708-4b05-ae6d-b61a98efe788">|
+| `StepUp.py` |<img width="150" alt="Screen Shot 2023-07-11 at 1 11 08 PM" src="https://github.com/Jiayikung/Karel-Robot-Project/assets/112765699/82234c4f-5708-4b05-ae6d-b61a98efe788">|
 | `PotholeFilling.py` | Show file differences that haven't been staged |
 | `BeeperRow.py` | Show file differences that haven't been staged |
 | `BeeperRowAdv.py` | Show file differences that haven't been staged |
