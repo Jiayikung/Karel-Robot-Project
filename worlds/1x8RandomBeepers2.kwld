@@ -1,0 +1,8 @@
+1-1-east-inf
+streets 9
+eastwestwalls 1 1 8
+northsouthwalls 8 1 1
+beepers 1 1 1
+beepers 1 3 1
+beepers 1 7 1
+beepers 1 8 1

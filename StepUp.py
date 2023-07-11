@@ -3,8 +3,8 @@ File: StepUp.py
 Name: Doris
 ------------------------
 This file shows Karel picking up 
-the beeper at Street 1 Avenue 2,
-putting it onto Street 2 Avenue 4.
+one beeper at Street 1 Avenue 2,
+and putting 99 beepers onto Street 2 Avenue 4.
 Karel will be facing East at Street
 2 Avenue 5 at the end of this program.
 """
