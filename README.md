@@ -1,4 +1,4 @@
-# Karel-Robot-Project <img width="70" alt="Screen Shot 2023-07-11 at 5 18 43 PM" src="https://github.com/Jiayikung/Karel-Robot-Project/assets/112765699/75941e19-0469-484e-a44e-18df871d0f1f">
+# Karel-Robot-Project <img width="40" alt="Screen Shot 2023-07-11 at 5 18 43 PM" src="https://github.com/Jiayikung/Karel-Robot-Project/assets/112765699/75941e19-0469-484e-a44e-18df871d0f1f">
 
 
 [Karel](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html) is an educational programming language and tool designed to learn the fundamentals of programming. It offers a simplified environment where learners control a virtual robot navigating a grid world.
