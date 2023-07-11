@@ -4,8 +4,7 @@
 By writing projects using predefined and limited commands, it also allows learners to execute essential programming concepts such as algorithmic thinking, decomposition, and stepwise refinement. 
 
 ## Usage
-Install the needed library with:\
-`pip install stanfordkarel`
+Install the needed library with: `pip install stanfordkarel`
 
 ## structure
 Each Karel robot project has the same structure as follows:
@@ -24,7 +23,8 @@ if __name__ == "__main__":
     run_karel_program()
 ```
 ## Project Description
-Here are the pre-condition and post-condition for each projects. To check for more detailed description, please check comments in each project's py.file.
+Here are the pre-condition and post-condition for each projects.\
+To check for more detailed description, please check comments in each project's py.file.
 | Project | Pre-condition | Post-condition |
 | --- | --- | --- |
 | `StepUp.py` |<img width="200" alt="Screen Shot 2023-07-11 at 1 11 08 PM" src="https://github.com/Jiayikung/Karel-Robot-Project/assets/112765699/82234c4f-5708-4b05-ae6d-b61a98efe788">|<img width="200" alt="Screen Shot 2023-07-11 at 1 11 50 PM" src="https://github.com/Jiayikung/Karel-Robot-Project/assets/112765699/a1a0871f-51c9-4ad1-8660-7f98922fbde1">|
