@@ -36,7 +36,8 @@ def fill_first_line():
     """
     while front_is_clear():
         move()
-        if front_is_clear():
+
+        if front_is_clear():  # check if Karel encounters a wall
             move()
             put_beeper()
     back_origin()

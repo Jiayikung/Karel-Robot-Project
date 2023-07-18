@@ -35,6 +35,9 @@ def pick_up_news():
 
 
 def turn_right():
+    """
+    Karel will turn left 3 times.
+    """
     for i in range(3):
         turn_left()
 

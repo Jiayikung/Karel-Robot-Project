@@ -31,11 +31,12 @@ def main():
         move()
     turn_around()
     while not on_beeper():
-        move()
+        if front_is_clear():
+            move()
         if not on_beeper():
             put_beeper()
-            move()
             if front_is_clear():
+                move()
                 while not on_beeper():
                     move()
                 pick_beeper()
@@ -46,7 +47,8 @@ def put_mark():
     """
     Once Karen moves one step and there's no beeper, Karen will put a beeper as a mark
     """
-    move()
+    if front_is_clear():
+        move()
     if not on_beeper():
         put_beeper()
 
